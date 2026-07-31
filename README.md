@@ -262,10 +262,6 @@ JNTUK, India · <i>Jul 2015 – Aug 2019</i>
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prashanth0630&show_icons=true&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanth0630&theme=tokyonight&hide_border=true">
 </p>
 
